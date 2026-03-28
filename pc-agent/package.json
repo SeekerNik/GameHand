@@ -1,0 +1,12 @@
+{
+  "name": "gamehand-pc-agent",
+  "version": "1.0.0",
+  "description": "GameHand PC Companion Agent — Connects your gaming PC to the GameHand mobile app",
+  "main": "agent.js",
+  "scripts": {
+    "start": "node agent.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
